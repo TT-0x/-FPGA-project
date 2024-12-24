@@ -8,11 +8,11 @@
 #### Input/Output unit:<br>
 * 8x8 LED 矩陣，用來顯示掉落的音符及遊戲結果。<br>
 <img src="https://github.com/TT-0x/-FPGA-project/blob/main/image/8x8.jpg" width="300"/><br>
-* S的圖形結果
+* S的圖形結果<br>
 <img src="https://github.com/TT-0x/-FPGA-project/blob/main/image/smile.jpg" width="300"/><br>
-* A的圖形結果
+* A的圖形結果<br>
 <img src="https://github.com/TT-0x/-FPGA-project/blob/main/image/A.jpg" width="300"/><br>
-* B和C的圖形結果
+* B和C的圖形結果<br>
 <img src="https://github.com/TT-0x/-FPGA-project/blob/main/image/B.jpg" width="300"/><br>
 
 
