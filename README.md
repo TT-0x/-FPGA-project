@@ -35,4 +35,4 @@ module aFinalP(
 ); <br><br>
 *** 請加強說明程式邏輯 <br>
 #### Demo video: (請將影片放到雲端空間)
-<a href="https://drive.google.com/file/d/1dsUKFF945moWpXyD0L86eseNf1l3repO/view?usp=sharing" title="Demo Video"><img src="https://github.com/kamiry/FPGA-project-1/blob/master/images/IO4.jpg" alt="Demo Video" width="500"/></a>
+<a href="https://drive.google.com/file/d/1RoNtYn-g49q59MoznQ-JOECaN_Ku3A1C/view?usp=sharing" title="Demo Video"><img src="https://github.com/TT-0x/-FPGA-project/blob/main/image/demoVideo.jpg" alt="Demo Video" width="500"/></a>
