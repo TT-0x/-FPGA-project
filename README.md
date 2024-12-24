@@ -7,11 +7,14 @@
 
 #### Input/Output unit:<br>
 * 8x8 LED 矩陣，用來顯示掉落的音符及遊戲結果。<br>
-<img src="https://github.com/kamiry/FPGA-project-1/blob/master/images/IO1.jpg" width="300"/><br>
+<img src="https://github.com/TT-0x/-FPGA-project/blob/main/image/8x8.jpg" width="300"/><br>
+* 玩家等級S的遊戲結果。<br>
+<img src="https://github.com/TT-0x/-FPGA-project/blob/main/image/smile.jpg" width="300"/><br>
 * 七段顯示器，用來顯示目前玩家等級(C->B->A->S)。<br>
-<img src="https://github.com/kamiry/FPGA-project-1/blob/master/images/IO2.jpg" width="300"/><br>
+<img src="https://github.com/TT-0x/-FPGA-project/blob/main/image/S.jpg" width="300"/><br>
 * LED 陣列，用來計分。<br>
-<img src="https://github.com/kamiry/FPGA-project-1/blob/master/images/IO3.jpg" width="300"/><br>
+<img src="https://github.com/TT-0x/-FPGA-project/blob/main/image/LED.jpg" width="300"/><br>
+
 #### 功能說明:<br>
 玩家使用按鈕對應掉落的音符，如果在判斷行按下按鈕輸入即可得分，在所有音符掉落完畢後結束遊戲，根據等級給予玩家不同的通關圖案。<br>
 
