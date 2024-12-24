@@ -8,6 +8,7 @@
 #### Input/Output unit:<br>
 * 8x8 LED 矩陣，用來顯示掉落的音符及遊戲結果。<br>
 <img src="https://github.com/TT-0x/-FPGA-project/blob/main/image/8x8.jpg" width="300"/><br>
+* 玩家等級S的遊戲結果。<br>
 <img src="https://github.com/TT-0x/-FPGA-project/blob/main/image/smile.jpg" width="300"/><br>
 * 七段顯示器，用來顯示目前玩家等級(C->B->A->S)。<br>
 <img src="https://github.com/TT-0x/-FPGA-project/blob/main/image/S.jpg" width="300"/><br>
